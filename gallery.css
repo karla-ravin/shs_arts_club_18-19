@@ -1,0 +1,97 @@
+h1{
+  text-decoration-color: black;
+  text-shadow: 1px 1px white;
+}
+
+
+.box{
+  background-color: gray;
+  width: 100%;
+  height: 50;
+  color: white;
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+}
+
+
+/* MENU BAR */
+
+.menu {
+  overflow: hidden;
+  background-color: #dbe8ff;
+}
+
+.menu a {
+  float: left;
+  display: block;
+  color: #3d495e;
+  text-align: center;
+  padding: 14px 125px;
+  text-decoration: none;
+  font-size: 28px;
+}
+
+.menu a:hover {
+  background-color: black;
+  color: white;
+}
+.current {
+  background-color: lightgreen;
+  color: black;
+}
+
+.menu .icon {
+  display: none;
+}
+
+.container{
+  text-align: center;
+  margin: 0 auto;
+}
+
+#menu {
+    margin:0 auto;
+    display: inline-block;
+    list-style:none;
+    padding:0;
+    border-top:1 solid #ccc;
+    border-left:1 solid #ccc;
+    border-bottom:1 solid #ccc;
+}
+
+#menu li {
+    float: left;
+    background-color:white;
+}
+
+#menu li a {
+    display:block;
+    text-decoration:none;
+    color:black;
+    padding: 14px 50px;
+    font-size: 17px;
+    border-right:0px solid #ccc;
+}
+
+#menu li a:hover {
+    color: white;
+    background-color:black;
+}
+
+/* MENU BAR */
+
+body{
+  background-image: radial-gradient(circle, yellow, lime);
+}
+
+h2{
+  padding-left: 10%;
+  text-shadow: 1px 1px white;
+}
+
+
+a p {
+  padding-left: 10%;
+
+}
