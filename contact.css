@@ -85,3 +85,10 @@ body{
   background-image: radial-gradient(circle, #ff6232, #ff0000);
 }
 
+h2{
+  padding: 0px;
+}
+
+a{
+  padding: 0px;
+}
