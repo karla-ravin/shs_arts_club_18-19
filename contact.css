@@ -86,12 +86,9 @@ body{
 }
 
 h2{
-  padding-left: 10%;
-  text-shadow: 1px 1px pink;
+  padding: 0px;
 }
 
-
 a{
-  padding-left: 10%;
-
+  padding: 0px;
 }
